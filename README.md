@@ -1,0 +1,2 @@
+# solidity_cryptozombies
+なんとなくsolidityの勉強
